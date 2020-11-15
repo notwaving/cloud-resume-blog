@@ -17,7 +17,7 @@ My focus is currently on getting AWS Certified, so most of my time is dedicated 
 
 - To learn by doing
 
-- As part of [#100DaysOfCloud](https://www.100daysofcloud.com/) - putting new cloud skills into practice on days off
+- As part of [#100DaysOfCloud](https://www.100daysofcloud.com/) - everyone's got to have a break from studying and this is what I'll be doing on those breaks!
 
 ### How?
 
