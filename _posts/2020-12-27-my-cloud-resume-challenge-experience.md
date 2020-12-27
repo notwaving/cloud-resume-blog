@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'My Cloud Resume Challenge Experience'
-date: 2020-11-15 16:39:36 +0000
+date: 2020-12-27 16:39:36 +0000
 categories: post
 ---
 
